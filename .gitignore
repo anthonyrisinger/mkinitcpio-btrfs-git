@@ -1,0 +1,7 @@
+/mkinitcpio-btrfs/
+
+/pkg/
+/src/
+
+/*.pkg.*
+/*.src.*
